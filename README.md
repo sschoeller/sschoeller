@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently a Master's student in Computer Science. I previously completed my undergraduate degree in Chemistry, where I was involved in a team project related to protein biochemistry. A good portion of the assigned tasks were related to data analysis.<br /> 
+I'm currently a Master's student in Computer Science. I previously completed my undergraduate degree in Chemistry, where I was involved in a team project related to protein biochemistry. A large portion of the assigned tasks were related to data analysis.<br /> 
+Strong Interests: Quantum Mechanics, Playing Piano, Writing, History
+<br />
+<br />
 Web: <a href="https://sschoellerSTEM.github.io">sschoellerSTEM.github.io</a>
