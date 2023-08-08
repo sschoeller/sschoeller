@@ -20,7 +20,3 @@ Tech-related Hobbies: I enjoy working with UNIX-like operating systems. <a href=
 <br />
 <br />
 Additional Interests: Quantum Mechanics, Playing Piano, Writing, History
-<br />
-<br />
-<br />
-Web: <a href="https://sschoellerSTEM.github.io">sschoellerSTEM.github.io</a>
